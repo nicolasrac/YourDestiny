@@ -1,0 +1,222 @@
+#INICIO|Bienvenido a este hermoso juego de decisiones. ¡Espero te encuentres en perfecto estado para disfrutar al máximo! Cada decisión que tomes puede o no afectar la característica más importante para nosotros los humanos, la cual es la salud. Ten mucho cuidado. Entonces, ¿Por cual maravillosa historia te gustaría empezar a jugar?|1
+*VALHALA|Valhala. ¡La gloria puede estar en tus manos!|1
+*BEASTANIMAL|Beast Animal. ¡Sal de tu rutina diaria tan aburrida y encuentra tu espiritú animal!|1
+
+#BEASTANIMAL| Eres Pablo… Pablo García; Biólogo, Intrépido Aventurero Y Amante De La Naturaleza. Después De Varios Sucesos Que En Ti Han Dejado Una Gran Marca De Valor, Decides Vivir La Mayor Aventura Que Un Ser Humano Pudiese Vivir.|100
+*START| Empieza La Aventura Más Feroz Que Hayas Vivido. Meta: ¡Encontrar Tu Espíritu Animal!!!
+
+#START| Estás En Supervivencia, En La Densa Selva Del Amazonas. El Bosque Es Muy Frondoso, La Visibilidad A Lo Lejos Es Nula. Te Preguntas Si Existe Alguna Manera De Hacer Las Cosas Más Fáciles...
+*PEÑASCO_AL_RÍO| Seguir Avanzando A Tientas Entre La Maleza…
+*MANOS_AL_SUELO| Buscas A Tu Alrededor Algo Que Te Pueda Ayudar…
+
+#PEÑASCO_AL_RÍO| En Un Abrir Y Cerrar De Ojos Resbalas Desde Lo Alto De Un Peñasco, Te Encuentras Cayendo, Te Golpeas Con Las Ramas Que Crecen Al Borde Del Peñasco…Sientes Tus Huesos Crujir, Caes Al Río Y Tu Sangre Comienza A Esparcirse Por El Agua, No Puedes Moverte. Lo Último Que Ven Tus Ojos Son Grandes Fauces Próximas A Embestirte ...|-1000
+
+#MANOS_AL_SUELO| Encuentras Una Piedra Con Borde Afilado, Tomas Una Gran Rama Y Amarras La Piedra, Formaste Un Hacha… Se Está Oscureciendo, Date Prisa En Hacer Una Fogata.
+*HUMO| Observas Que Hay Humo Cerca, Decides Investigar.
+*RAMAS| Reúne Las Ramas De La Maleza Que Cortaste.
+
+#HUMO| Llegas Al Lugar, El Humo Proviene De Una Fogata…Escuchas Un Gran Soplo Y Piquete En El Cuello…Es Un Dardo, Tiene Veneno De La Rana “Punta De Dardo” Usado Por Nativos Para La Caza, Y Es El Veneno Más Rápido En El Mundo En Conducir A La Muerte…Tan Solo Tres Minutos Después Mueres...|-1000
+
+#RAMAS| Tomas Las Ramas Y Mediante Un Método De Supervivencia Muy Conocido Generas Fricción Entre Dos Ramas Con Una Base De Hojas Secas. Creas Fuego Y La Euforia Te Domina Como Al Prota De La Peli De Náufrago. 
+*LUZ| Eso Mantendrá Alejado A Las Bestias.
+
+#LUZ|Descansas Un Poco, A Corta Distancia Ves Una Danta, Tienes Hambre, No Puedes Desperdiciar Esta Oportunidad Y Piensas Si Usar Una Roca O Tu Hacha Para Cazarla.
+*ROCA|Te Acercas Y A Una Distancia Prudente Lanzas Una Roca. 
+*TU_HACHA| Te Quieres Probar A Ti Mismo, Así Que Usarás Tu Hacha.
+
+#ROCA| Lanzas La Roca, Pero Calculas Mal El Lanzamiento Asustando A La Danta Y Provocando Que Esta Huya |-50
+
+#TU_HACHA|Durante 5 Minutos O Más Te Concentras En Seguirla, Estando Lo Suficientemente Cerca La Embistes, La Golpeas Con El Poco Filo Del Hacha Y Esta Muere De Insofacto, ¡Felicidades! ¡Recuperarás Calorías… Espera!, Escuchas Eso…Parece Ser Un Jaguar.
+*PASAR| Guardas Silencio Y Dejas Que Pase.
+*EXAMINAR| Haz Recuperado Energía Gracias A La Danta Ahumada, Decides Analizar El Terreno Para Ubicar Algo Que Te Pueda Ser Útil Contra La Bestia.
+
+#EXAMINAR| Tras Tomar Un Pedazo De Madera Empleada Antes Para Hacer La Fogata Y El Hacha:
+*IMPETÚ| Te Paras Frente Al Jaguar, Lo Retas Con La Mirada Y De La Manera Más Osada Lanzas Un Grito De TARZAN Al Ataque.
+*ESTRATEGÍA| Con La Paciencia E Inteligencia Que Has Cultivado Desde Tus Años De Universitario En Biología, Decides Cubrirte Del Humo Que Escasamente Desprendía La Fogata Y Te Escabulles Entre La Maleza Mientras El Jaguar Busca Los Restos De Una Danta Ya Devorada.
+
+#IMPETÚ| Sin Embargo, El Jaguar Es Más Ágil Y Fuerte, Entonces De Un Tirón Te Manda Al Suelo, El Animal Te Arranca Grandes Pedazos De Carne De La Espalda, Eres Devorado Vivo…Nunca Vuelves A Casa, Eres Una Decepción...|-1000
+
+#ESTRATEGÍA| El Jaguar Baja La Guardia, Te Enfocas En Su Lomo Al Cual Te Lanzas Ágilmente, Luego De Esquivar Sus Garras Atacas Detrás De Sus Rodillas. En Un Intento Desesperado La Bestia Te Da Un Empujón Muy Grande…Caes Al Lado De La Fogata, El Jaguar Terminará Contigo… Buscas Tu Hacha Y Está En Los Bajos Del Jaguar. Está A Punto De Aplacarte, Con Apuros Tomas Un Hueso De La Danta Partido Y Con Una Punta Algo Afilada Que Estaba Al Borde De La Fogata, Con Una Gambeta Esquivas Su Placaje Y Lo Apuñalas Justo En El Ojo Con Un Impacto Doble.
+*INSTINTO| Está Haciendo Frío Y La Danta No Era Para Siempre.
+*PASAR| Tomas Un Descanso Y Buscas Un Nuevo Refugio Cerca Del Río.
+
+#INSTINTO| Después De Agradecer Al Espíritu Del Monte Y A La Selva, Le Permites Al Jaguar Tomar Su Último Aliento Para Luego Despellejarlo Y Así Hacerte Un Ropaje, Conservas Su Carne Lavándola Y Enrollándola En Unas Hojas De Plátano Y Guardas Su Sangre Como Bebida (Supervivencia +50) |50
+*PASAR| Buscar Un Nuevo Refugio Cerca A Un Río.
+
+#PASAR| Avanzas Por La Jungla, Te Toma Tres Días Llegar Al Río. Después De Instalarte Cerca Y Fabricar Un Escudo Con Madera De Ceiba Y Amarres De Chambira Además De Optimizar Tu Hacha. 
+*REFUGIO| Pronto Lloverá, Arma Un Refugio.
+
+#REFUGIO| Logras Mediante Tiras De Corteza De Chambira Y Unas Ramas Hacer La Estructura Base De Una Pequeña Especie De Carpa, La Cual Después Techas Con Grandes Hojas De Plátano, Te Sientes Orgulloso… ¡Cuando De Repente!, Una Gran Boa Emerge Del Río.
+*CRUZAR_RÍO| Cruza El Río, Estarás A Salvo.
+*DEFENSA| Usa Tu Escudo Para Defenderte Y La Fuerza Bruta En Su Contra.
+* HACHA| Usa El Hacha Ahora Tiene Más Filo Y Un Mejor Mango, Dale Chumbimba.
+
+#CRUZAR_RÍO| Corres E Intentas Cruzar El Río Sin Darte Cuenta El Gran Reptil Decide Seguirte…Es Más Rápida En El Agua, Te Muerde Y Mientras Se Enrolla Poco A Poco En Tu Cuerpo (Supervivencia - 50) |-50
+* DEFENSA| Usa Tu Escudo Para Defenderte Y La Fuerza Bruta En Su Contra.
+* HACHA| Usa El Hacha Ahora Tiene Más Filo Y Un Mejor Mango, Dale Chumbimba.
+
+#DEFENSA| Usas Tu Escudo Y Tu Fuerza Bruta, Pero No Es Suficiente En Contra De Un Gran Boa Hambrienta (Supervivencia -30) |-30
+* HACHA| Usa El Hacha Ahora Tiene Más Filo Y Un Mejor Mango, Dale Chumbimba.
+
+#HACHA| Con Tu Aptitud De Intrépido Aventurero Tomas El Hacha, El Escudo, Tu Fuerza Bruta Y Tus Sentidos Para Aplacar A La Gran Bestia De Sangre Fría…ERES IMPARABLE!!! Y Le Cortas La Cabeza.
+*PIELES| Despellejar Y Conservar La Carne.
+
+#PIELES| Tomas La Piel Escamosa Y Dura Del Animal Para Tu Ropaje, Te Ayudará A Prevenir Futuras Lesiones. Y Tomas Provecho De La Carne Para Sobrevivir (Supervivencia +50) |50
+*MOSQUITOS| La Cantidad De Zancudos, Moscas, Tábanos Y Otros Insectos Es Demasiada. Para Evitar Enfermedades Impuestas Por Estas Plagas, Optimiza Tu Refugio.
+*PESCA| La Carne De La Boa No Perdurará Mucho En Un Clima Tan Cálido Y Húmedo Como Lo Es En El Amazonas, Fabrica Trampas De Pesca.
+
+#MOSQUITOS| Desarmas El Refugio, Limpias Una Gran Parte Del Suelo En Forma De Cuadrado Para Tener Una Mejor Visión De Lo Que En El Suelo Se Encuentra, Luego Dibujas Un Cuadrado Tan Grande Como Lo Quieras, Cavas 10cm Y Con Algunas Ramas Grandes Logras Formar La Base De Un Gran Prisma. Los Costados Son Remendados Con Una Red Hecha En Chambira En La Cual Después Amarras Las Grandes Hojas De Palmera De Plátano Para Dar Al Final Un Refugio Más Sellado. (Supervivencia +50) |50
+*HERRAMIENTAS| Un Arco Y Una Lanza No Te Vendrían Mal.
+*PESCA| La Carne De La Boa No Perdurará Mucho En Un Clima Tan Cálido Y Húmedo Como Lo Es En El Amazonas, Fabrica Trampas De Pesca.
+
+#PESCA| Con Unas Ramas Y Tiras De Corteza Fabricas Varias Trampas De Langostinos Y De Peces Las Cuales Ubicas A Lo Largo De La Orilla Del Río.  (Supervivencia +50) |50
+*HERRAMIENTAS| Un Arco Y Una Lanza No Te Vendrían Mal.
+*MOSQUITOS| La Cantidad De Zancudos, Moscas, Tábanos Y Otros Insectos Es Demasiada. Para Evitar Enfermedades Impuestas Por Estas Plagas, Optimiza Tu Refugio.
+
+#HERRAMIENTAS| Con Los Recursos Más Implementados Decides Fabricar Un Arco, Muchas Flechas Y Una Lanza…Con El Tiempo Te Fastidia Prender Una Y Otra Vez El Fuego, Y Encima De Eso Sientes Mucho Frío En Las Noches. 
+*HORNO| Fabrica Un Horno Cavando Y Recolectando Arcilla.
+*DESPUÉS| No Es Tan Importante, Podemos Vivir Así.
+
+#HORNO| Amarras Unas Ramas Y Les Das Forma De Tubo El Cual Cubres Con Barro, Para Luego Incorporar Dentro De Del Refugio.
+*FINAL| Último Día En La Selva, Caminas Río Abajo.
+
+#DESPUÉS| Llegada La Época Del Invierno Llueve Todo El Día, La Cantidad De Mosquitos Y El Frío Te Afectan Mucho…Lamentablemente Enfermas Pues En La Naturaleza La Pereza Es Inaceptable Y Solo El Más Apto Sobrevive…Mueres De Hipotermia Y Síntomas De Malaria Y Dengue.
+
+#FINAL| ¡Encuentras Un Puerto Y Decides Regresar A Casa! Al Subir A La Avioneta Recuerdas Tu Lucha Y Obstinación En La Mayor Travesía De Tu Vida. Espero Puedas Haberte Divertido Mucho Y Haber Aprendido Algo ------GRACIAS POR JUGAR------- …|-1000
+*INICIO|A Comenzar De Nuevo...
+
+#VALHALA|En la antigüedad, había una aldea muy linda. Y ahora, cuéntame algo de ti, ¿Quién eres tú?|100 
+*GISLI|Mi nombre es Gisli, y esta es mi historia.
+*EGIL|Mi nombre es Egil y esta es mi historia.
+
+#GISLI|Eres un pequeño joven en la aldea de 7 años. Desde tu nacimiento siempre fuiste muy flaco y débil, quizá la lucha no sea lo tuyo. De cualquier modo, tu padre está llamando a la puerta.
+*ABRIR|Sales corriendo y vas a abrir.
+
+#ABRIR|Tu padre con una cara muy seria, dice: ¿Hijo, ya estás en la edad. Debes escoger tu camino, el camino que requieras para llegar al Valhala y servir a la aldea.¿ Te quedas muy asombrado. Muchos chicos ni siquiera pueden elegir, simplemente son obligados a blandir la espada e ir la guerra. ¿Qué camino escogerás?
+*GUERRERO|¿Ser un guerrero! Está en tu sangre luchar por el bien de tu aldea.
+*CAMPESINO|Ser un campesino parece una buena opción. Si tu padre no te obligó a luchar, debe haber una razón.
+
+#GUERRERO|¡Prepárate!, tus días de guerrero están por comenzar. A la mañana siguiente, tu padre te da el primer entrenamiento. Luego de varias horas entrenando, aprendes medianamente a agarrar la espada, así que tu hermano mayor te reta a un duelo de practica. No hay opción, parece que debes aceptar.
+*ACEPTAR|Aceptas el duelo de practica.
+
+#ACEPTAR|El duelo inicia. ÉL viene con todo y con su primer intento se abalanza ante ti. Hace el swing con la espada de madera y te golpea en el hombro. (-1 punto de salud)Caes.|-1
+*TIRADO|Decides seguir en el suelo y hacerte como que te duele mucho para no seguir con esto.
+*SIGUES2|Decides levantarte por tu honor y seguir luchando.
+
+#TIRADO|Tu padre preocupado detiene la pelea y se van todos a casa. Igualmente, el entrenamiento continuará mañana. Entrenando vagamente y sin muchas ganas han pasado 5 años. Ya eres un niño grande, y con tus habilidades de pelea te puedes defender mínimamente. (+6 puntos de salud) Adivina, es hora de entrenar de nuevo.|6
+*ENTRENAR|Te diriges al campo de entrenamiento de la aldea.
+
+#ENTRENAR|Fue un buen entrenamiento el de hoy, pero quedaste un poco cansado. (-2 puntos de salud)|-2
+*CASA|Te vas casa a descansar un poco.
+
+#CASA|Llegas a tu casa y te acuestas para dormir un rato. Pero no te alcanzas a dormir cuando escuchas el ruido de unas espadas en la lejanía. Esto es muy raro, el entrenamiento ya se había acabado, además el sonido no venía de esa dirección.
+*INVESTIGAR|Ir a investigar.
+
+#INVESTIGAR|Te diriges hacia el puerto de la aldea y... ¿QUÉ? ¿ESTÁN ATACANDO TU ALDEA!, lo primero que se te ocurre es...
+*ESPADA|Correr a buscar tu espada para defender tu aldea.
+*CORRER|Correr a esconderte al lugar seguro para bebés y mujeres.
+
+#ESPADA|luego de correr por 5 minutos, llegas al sótano de tu casa y abres el baúl de armamento. Tomas tu espada real y vas directo al campo de batalla. (+10 puntos de salud) Te encuentras con tu primer enemigo. Como tú, parece un niño. Realmente hay posibilidades de que venzas y defiendas a la aldea.|10
+*ATT|Aprovechar que no esta atento y lanzar un tajo directo al cuello.
+
+#ATT|Lo esquivó sin problemas. Debiste haber entrenado más. Tu velocidad no fue para nada buena. El oponente se defiende y balancea su espada.
+*ESD|Esquivar rápidamente a la derecha.
+*ESI| Esquivar rápidamente a la izquierda.
+
+#ESD|Como mencionó antes, tu velocidad no es la gran cosa, y debido a tu intento de esquivo, bajaste la cabeza. Lo que inicialmente era un golpe al pecho, terminó en un tajo mortal al cuello...|-999
+
+#ESI|Como mencioné antes, tu velocidad no es la gran cosa, y debido a tu intento de esquivo, bajaste la cabeza. Lo que inicialmente era un golpe al pecho, terminó en una decapitación para nada linda...|-999
+
+#CORRER|Antes de que pudieras llegar a esconderte, un enemigo que avanza mucho te corta la cabeza de un tajo...|-999
+
+#SIGUES2|Te levantas y sigues luchando. Esa determinación podría matar a alguien algún día. Lastimosamente, no hoy. Tu hermano es muy superior a ti, y te sigue golpeando por largos minutos, en los cuales no te volviste a caer. El entrenamiento acaba y vas a casa lleno de moretones. (-8 puntos de salud) Entrenando con determinación y muchas ganas han pasado 5 años. Ya eres un alguien grande, tal vez hasta fuerte, y con tus habilidades de pelea te puedes defender muy bien. De hecho, eres uno de los mejores con la espada, de los niños de la aldea. (+30 puntos de salud) Adivina, es hora de entrenar de nuevo.|22
+*ENTRENAR2|Te diriges al campo de entrenamiento de la aldea.
+
+#ENTRENAR2|Fue un buen entrenamiento el de hoy, pero quedaste un poco cansado. (-2 puntos de salud)|-2
+*CASA2|Te vas casa a descansar un poco.
+
+#CASA2|Llegas a tu casa y te acuestas para dormir un rato. Pero no te alcanzas a dormir cuando escuchas el ruido de unas espadas en la lejanía. Esto es muy raro, el entrenamiento ya se había acabado, además el sonido no venía de esa dirección.
+*INVESTIGAR2|Ir a investigar.
+
+#INVESTIGAR2|Te diriges hacia el puerto de la aldea y... ¿QUÉ? ¿ESTÁN ATACANDO TU ALDEA!, lo primero que se te ocurre es...
+*ESPADA2|Correr a buscar tu espada para defender tu aldea.
+*CORRER2|Correr a esconderte al lugar seguro para bebés y mujeres.
+
+#ESPADA2|Luego de correr por 5 minutos, llegas al sótano de tu casa y abres el baúl de armamento. Tomas la espada familiar. Aquella que te confió tu padre debido a lo duro que has entrenado estos últimos años. (+15 puntos de salud). Es tu momento de brillar. Te encuentras con tu primer enemigo. Como tú, parece un niño. Realmente hay posibilidades de que venzas y defiendas a la aldea.|15
+*ATT2|Aprovechar que no está atento y lanzar un tajo directo al cuello.
+
+#ATT2|¡Perfecto! Tu entrenamiento a rendido frutos. Has matado a ese niño. Te sientes tan contento que tu espíritu de lucha aumenta, además le robas la cota de mallas que llevaba puesta. (+25 puntos de salud) Sigues tu camino y de repente te encuentras rodeado por 3 enemigos más...|25
+*LUC2|Lamentablemente no creo que huir sea una opción, así que te pones a luchar con todo tu ser.
+
+#LUC2|Con gran esfuerzo y gracias a todo lo que alguna vez entrenaste logras vencer a dos. Sin embargo, te han golpeado muchas veces, algunas de ellas incluso mortales, pero gracias a tu espíritu de lucha y la cota de mallas, sigues de pie. (-70 puntos de salud) ¡Puedes hacerlo! Solo queda uno y también parece cansado. El enemigo balancea su espada hacia tu pecho como medianamente puede. El golpe no parece mortal. Tienes la cota de mallas y el cansancio del enemigo a tu favor. De cualquier manera, recibir más daño no sería lo ideal, cualquier golpe en tu estado podría matarte. Así que decides...|-70
+
+*ESD2|Esquivar rápidamente a la derecha.
+*ESI2| Esquivar rápidamente a la izquierda.
+
+#ESD2|Como mencioné antes, tu velocidad no es la gran cosa gracias al cansancio y las heridas, y debido a tu intento de esquivo, bajaste la cabeza. Lo que inicialmente era un golpe al pecho, terminó en un tajo mortal al cuello...|-999
+
+#ESI2| Como mencioné antes, tu velocidad no es la gran cosa gracias al cansancio y las heridas, y debido a tu intento de esquivo, bajaste la cabeza. Lo que inicialmente era un golpe al pecho, terminó en una decapitación para nada linda...|-999
+
+#CORRER2|Antes de que pudieras llegar a esconderte, un enemigo que avanzó mucho te corta la cabeza de un tajo...|-999
+
+#CAMPESINO|Lamento haberte hecho escoger una profesión tan poco honrada, hijo. Pero seguramente, si hubieras sido guerrero, morirías antes de conocer el campo de batalla. A partir de que empiece el verano, te irás con mi hermano a aprender todas las técnicas de la vida en el campo. Esa será nuestra despedida. Pasaron los meses, y tu tío llegó en un pequeño barco de carga. Fue a hablar con tu padre, y recibió algunas monedas de plata por su parte. Más tarde en tu vida habrás entendido que una de las personas que más apreciabas, te vendió por algunas monedas...
+*BARC|Te subes en el barco con tu tío (Frode) para emprender su aventura.
+
+#BARC|Pasaron 9 días navegando antes de llegar a su destino. Fue tu primer viaje en barco, por lo tanto, la fatiga y los mares fueron constantes y decisivos respecto a tu salud. (-20 puntos de salud). Cuando llegaron, dormiste por un día completo debido al cansancio. Ya es de noche. El día de mañana será tu primer entrenamiento, así que debes prepararte para lo que viene.|-20
+*COM|Buscar algo para comer.
+
+#COM|Sales de la habitación donde te encontrabas y te diriges a una pequeña cella. Como recientemente había iniciado el verano, no había muchas cosechas, solo algunos frutos que posiblemente fueron recolectados del bosque recientemente. 
+*FRAM|Tomar unos frutos que parecen frambuesas y comerlas.
+*ARAN|Tomar unos frutos que parecen arándanos y comerlos.
+*NOCO|No comer nada e irte a dormir.
+
+#FRAM|Agarras un puñado de frambuesas, pero... No parecen tener un buen aspecto. Sin embargo, el hambre es tal, que comes un poco. Tu intuición no estuvo mal, al parecer estaban en muy mal estado. Un repentino y potente dolor de estomago te aqueja y empiezas a vomitar sin control (-40 puntos de salud). Tu condición actual es deplorable, así que decides irte a descansar.|-40
+*PATR|Salir por la puerta de atrás. 
+*PADE|Salir por donde entraste.
+
+#PATR|Como medianamente puedes, sales caminando por la puerta de atrás. El camino que inicialmente fueron 10 minutos parece eterno. Pero sigues caminando sin importar el gran dolor que padeces. Todo hasta que... Lobos. Una manada de lobos completa aparece ante ti... En este punto no sabes si estás alucinando por tu condición o no, así que sigues caminando. Pero lo que parece ser el líder de la manada, te gruñe con tono amenazador.
+*LPAT|Intentar atacar al lobo para demostrar dominancia y que los demás de dejen en paz. 
+*LCORR|Corres en dirección contraria para evadirlos.
+
+#LPAT|Lanzas una patada al líder, y afortunada o desafortunadamente, logras golpearlo. Pero al contrario de tu plan, lo único que logras es hacerlo enojar. Inmediatamente, todos los lobos comienzan a ladrar y se abalanzan hacia ti. Cierras los ojos y lo único que sientes son una cantidad de mordidos no tan dolorosos. (-40 puntos de salud) Pero la situación de salud en la que te encontrabas fue determinante para no poder sobrevivir al ataque...|-99
+
+#LCORR|Corres a toda velocidad con las pocas fuerzas que te quedan para poder llegar al dormitorio. Luego de 3 minutos no puedes más, y los vómitos comienzan de nuevo. (-15 puntos de salud) Llega un momento donde no puedes continuar vomitando porque ya no te queda nada en el estomago, ni siquiera líquidos. Entonces decides continuar el camino a casa, pero... No. Completamente sin fuerzas. Lo intentas una. Otra, Otra y otra más, pero no puedes levantarte de la fría nieve en esa noche de verano. Pierdes el conocimiento debido al frío de ese lugar y nunca más despertaste. (-25 puntos de salud).|-999
+
+#PADE|Como medianamente puedes, sales por donde entraste. El camino que inicialmente fueron 10 minutos parece eterno. Pero sigues caminando sin importar el gran dolor que padeces. Luego de 5 minutos no puedes más, y los vómitos comienzan de nuevo. (-15 puntos de salud) Llega un momento donde no puedes continuar vomitando porque ya no te queda nada en el estomago, ni siquiera líquidos. Entonces decides continuar el camino a casa, pero... No. Completamente sin fuerzas. Lo intentas una. Otra, Otra y otra más, pero no puedes levantarte de la fría nieve en esa noche de verano. Pierdes el conocimiento debido al frío de ese lugar y nunca más despertaste. (-25 puntos de salud).|-999
+
+#ARAN|Te metes a la boca un racimo de arándanos y sorprendentemente tienen un sabor exquisito, así que sigues comiendo hasta que no hay más. Con tu barriga llena te sientes mucho más recuperado, (+20 puntos de salud) así que decides irte a tu habitación... Ni siquiera alcanzaste a salir de la cella cuando te desmayas. ¿La razón? Te acabaste de comer un barril completo de frutos del bosque venenosos. (-99 puntos de salud). La próxima vez deberías aprender más del campo.|-999
+
+#NOCO|Nada tiene muy buena pinta que digamos, entonces decides irte a dormir, para mañana amanecer recuperado para el trabajo.
+*SPA|Sales por la parte de detrás de la cella.
+
+#SPA|En el piso de la salida, había una especie de lanza en muy mal estado la cuál debía ser dejada ahí porque ya no era útil.
+*DEJR|La dejas porque estás increíblemente cansado, y un peso más posiblemente pueda ser demasiado para ti en esas condiciones.
+*TOMR|La tomas porque posiblemente te pueda servir en el futuro, pero asumes un peso muerto extra incluso cuando no has comido nada en días.
+
+#DEJR|Sales de la cella, sin haber comido nada. Ya no recuerdas la ultima vez que comiste. El hambre es tal, que ya comienza a afectarte física y mentalmente. (-20 puntos de salud) Como medianamente puedes, caminas hacia tu habitación. Luego de 5 minutos caminando, ves a lo lejos algo que parece ser un lobo. Quizás una manda, así que apuras el paso para llegar a salvo. La jauría te alcanza. Está comenzando a gruñirte, así que...|-20
+*LPAT2|Intentas atacar al lobo para demostrar dominancia y que los demás de dejen en paz. 
+*LCORR2|Corres en dirección contraria para evadirlos.
+
+#LPAT2|Lanzas una patada al líder, y afortunada o desafortunadamente, logras golpearlo. Pero al contrario de tu plan, lo único que logras es hacerlo enojar. Inmediatamente, todos los lobos comienzan a ladrar y se abalanzan hacia ti. Cierras los ojos y lo único que sientes son una cantidad de mordidos no tan dolorosos. (-60 puntos de salud) Pero la situación de salud en la que te encontrabas fue determinante para no poder sobrevivir al ataque...|-99
+
+#LCORR2|Corres a toda velocidad con las pocas fuerzas que te quedan para poder llegar al dormitorio. Luego de 3 minutos no puedes más, y los vómitos comienzan de nuevo. (-15 puntos de salud) Llega un momento donde no puedes continuar vomitando porque ya no te queda nada en el estomago, ni siquiera líquidos. Entonces decides continuar el camino a casa, pero... No. Completamente sin fuerzas. Lo intentas una. Otra, Otra y otra más, pero no puedes levantarte de la fría nieve en esa noche de verano. Pierdes el conocimiento debido al frío de ese lugar y nunca más despertaste. (-45 puntos de salud).|-99
+
+#TOMR|Cargas la lanza que, aunque no es tan pesada, te resulta increíblemente desafiante de llevar porque no has comido nada en días. Emprendes tu camino a casa. Luego de 5 minutos caminando, el peso te empieza a molestar e incluso te sientes un poco cansado. (-10 puntos de salud). Sigues caminando hasta que te ves a lo lejos a un lobo solitario, lo cual no es muy común. Poco a poco se acerca hasta que te lo encuentras justo en frente tuyo en posición de ataque, así que...
+*ALANZ|Con la lanza intentas acertarle un golpe en el costado.
+*ALANC|Con la lanza intentas acertarle un golpe a la cabeza.
+*CHUIR|Huyes rápidamente,
+
+#ALANZ|Antes de que pudieras hacer cualquier cosa, el lobo lanza una mordida en la pierna, la cual te deja tirado en el suelo. (-40 puntos de salud). Pero tú no te rindes. En el suelo, consigues un mejor ángulo de ataque con la lanza, así que esperas pacientemente a que el lobo salte a atacarte para clavarle el arma en el pecho... Afortunadamente así fue. Una inserción limpia, incluso directo al corazón. El lobo murió instantáneamente. Luego de eso, con las pocas fuerzas que te quedan, y con el sangrado todavía fluyendo (-15 puntos de salud)|-55
+*LOBC|Por conveniencia, tomas el lobo muerto en tus hombros y te diriges a tu habitación de una vez por todas.
+
+#LOBC|Te llevas el lobo. Y por fin llegas a tu hogar. Ya estando ahí, lo dejas tirado donde puedes, te cubres la herida de la pierna como puedes y te vas a dormir. (+10 puntos de salud) Al día siguiente le cuentas a Frode todo lo sucedido y te da 15 monedas de plata, puesto que ese lobo ya había atacado el ganado en otras ocasiones. Además, racionan la carne para tener alimento por más tiempo. De esta manera vuelves a comer algo rico después de mucho tiempo. (+30 puntos de salud) De cualquier forma, el entrenamiento se aplaza, porque no te encuentras en condiciones para hacer trabajo físico, así que te quedas recuperando. (+10 puntos de salud)|40
+*DDLH|Te vas a descansar, para recuperar tus heridas.
+
+#DDLH|Luego de unos cuantos días descansando, por fin te recuperas completamente de tus heridas, gracias a la comida y el calor de la habitación. Tu tío te enseñó a hacer ropa con piel de animales y te regaló una muda de ropa que hizo con la piel del lobo que cazaste. (+15 puntos de salud). En los días siguientes fuiste a trabajar con Frode y poco a poco fuiste mejorando tus habilidades del campo. 7 años han pasado y has trabajado sin descanso. Aprendiste todo lo que te enseñaron y eres realmente muy hábil, además de haber ganado una musculatura bastante buena. (+50 puntos de salud) Has ganado algunas monedas de bronce y plata haciendo trabajos a los terratenientes vecinos a Vinland. (el lugar donde te encuentras)
+
+#ALANC|Ejecutas tu ataque, pero el lobo es mucho más rápido y lo esquiva. Acto siguiente, lanza una mordida a la pierna, la cual te deja tirado en el suelo. (-40 puntos de salud). Lo peor sucede cuando ya estás en el suelo, puesto que el lobo empieza a rasgarte el cuello de forma mortal. (-60 puntos de salud). Luego de terminar contigo, se va hacia tu habitación y te deja ahí tirado.|-100
+
+#CHUIR|Intentas huir corriendo lo más rápido que puedes, pero la lanza es demasiado pesada para correr con ella, así que la dejas tirada. Incluso sin tener el peso, el lobo te alcanza y comienza a rasguñarte profundamente (-20 puntos de vida). Tú intentas alejarlo pateándolo, pero solo hace que ahora comience a morderte sin control. (-75 puntos de vida) El lobo se aburre de morderte porque seguramente no le pareces una fuente de alimento.|-99
+
+#EGIL|Lamentablemente, naciste de un cadáver muerto. Lo asombroso es que sobreviviste 34 días antes de morir, teniendo en cuenta tu condición y procedencia. De hecho, te llamaron Egil porque eso significa impresionante en nuestra lengua.|-1000
+
