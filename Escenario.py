@@ -5,20 +5,29 @@ from colorama import Fore,Back,Style
 colorama.init (autoreset=True)
 import pyfiglet as pf 
 
+#Aquí creamos las diferentes variables, las cuales van a ser determinantes para el desarrollo del juego.
 class Escenario:
     def __init__(self, descripcion, opciones):
         self.descripcion = descripcion
         self.opciones = opciones
         self.cambioSupervivencia = 0
 
+#Ajora vamos a definir la funcion que nos muestra en pantalla el juego.
     def presentar(self, personaje):
+        #Salto de linea
         print('\n')
+        #Nos muestra la vida actual
         print(personaje.obtenerEstado())
+        #Nos muestra la descripcion del escenario
         print(self.descripcion)
 
+        #Nos aseguramos que los cambios en supervivencia, se hagan y no solo sea la cadena.
         personaje.supervivencia += self.cambioSupervivencia
 
-        if personaje.supervivencia <= 0:
+
+        #Acabamos el juego si el personaje muere
+
+        if personaje.supervivencia <= 0: 
             time.sleep(2)
             print("\n.")
             time.sleep(1)
@@ -40,6 +49,9 @@ class Escenario:
             time.sleep(3)
             os.system ("clear")
             return 'INICIO'
+
+
+        #Asignamos que pasa si alguien gana.
         
         elif personaje.supervivencia >= 1000:
             time.sleep(3)
@@ -93,22 +105,29 @@ class Escenario:
                 time.sleep(10)
                 os.system ("clear")
 
+#Presentamos la forma como se van a mostrar las opciones en pantalla
         for i in range(len(self.opciones)):
             print("[" + str(i) + "] " + self.opciones[i].descripcion)
 
+#Hacemos un flag
         error = True
 
         while error:
             eleccion = input()
 
+#Evitamos que lo que escribió el jugador sea algo diferente a numeros, porque eso sería arreglar otra cantidad de errores.
             if eleccion.isnumeric():
+                #Convertimos la respuesta en un numero, porque lo que se recibía era una cadena
                 eleccion = int(eleccion)
 
                 if eleccion < len(self.opciones):
                     error = False
 
+#Si escribe una opcion que no está dentro de lo que está, entonces, le decimos que se equivocó
             if error:
-                print("¡Escribe el número de alguna de las opciones!")
+                print(Fore.RED +"¡Escribe el número de alguna de las opciones!")
 
+#Acá acabamos la flag, y lo mandamos directamente al siguiente fragmento.
             if not error:
                 return self.opciones[eleccion].siguienteFragmento
+
