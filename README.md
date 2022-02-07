@@ -1,4 +1,7 @@
 # YourDestiny
+
+By Nicolás J. Rodríguez, Sebastián Pedroza and Nicolás Vigoya
+
 this is an alpha version of my final project.  It is a text game about the destiny of your life based on your decisions.
 
 If you want to run the code, you go to the file called "Juego.py" and run it from there.
